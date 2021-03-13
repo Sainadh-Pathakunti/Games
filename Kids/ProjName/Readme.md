@@ -1,1 +1,1 @@
-Kids game cocos2dx
+#Kids game cocos2dx
